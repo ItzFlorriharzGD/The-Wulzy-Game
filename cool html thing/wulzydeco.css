@@ -1,0 +1,49 @@
+/* 
+This file is simply to make the HTML look more pretty.
+You can delete this file, however it is not recommended.
+*/
+body {
+ background-color: yellow;
+  font-family: cursive;
+}
+.button{
+ color: yellow;
+ background: orange;
+ font-family: cursive;
+}
+.button:hover{
+  transform: scale(1.10);
+  transition: all 200ms cubic-bezier(1, 0, 0, 1);
+  cursor: pointer;
+}
+img {
+  height: 64px;
+  width: 64px;
+}
+#con {
+  bottom: 80%;
+  float: left;
+}
+#hex1 {
+  position: absolute;
+  top: 685px;
+}
+#hex2 {
+  position: absolute;
+  top: 615px;
+}
+#hex3 {
+  position: absolute;
+  top: 650px;
+}
+#con {
+  position: absolute;
+  top: 685px;
+  left: 1340px;
+}
+
+#left {
+  position: absolute;
+  top: 1px;
+  left: 1340px;
+}

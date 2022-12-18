@@ -1,0 +1,12 @@
+<table class="shopbtnright" onclick="building.purchase('+i+')">
+                              <b id="cool">10</b> wulzys
+                              <div>
+                                Cool programmer (<span id="newClickVal">0.5</span> wulzys per second)
+            <td><img src="images/'+'" class="img"
+              alt="https://media.istockphoto.com/vectors/modern-computer-cartoon-vector-id862739386?k=20&m=862739386&s=170667a&w=0&h=q489NvaFLLZTyi1sDO3sOx7NSwaV577qETqZqo-ExyQ="></td>
+              <div>
+                    </div>
+                  </div>
+                  <span id="comps"></span>
+                </table>
+
